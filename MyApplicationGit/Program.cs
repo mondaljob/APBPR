@@ -12,6 +12,7 @@ namespace MyApplicationGit
             Console.WriteLine("Hi");
             Console.WriteLine("Hi Hello");
             Console.Write("Hi");
+            Console.Write("Hi");
             Console.ReadKey();
             
         }
